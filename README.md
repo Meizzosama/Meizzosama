@@ -15,7 +15,6 @@ Bachelor's in Computer Science (To be graduated in 2023)
 - 👯 I’m looking to collaborate on **Projects related to my Stack**                            
 - 🤔 I’m looking for help with **Cloud Computing**
 
-- 💬 Ask me about **Serverless Web Development**
 - 📫 How to reach me: **[Muhammad Osama Noor](mailto:mosamanoor17@gmail.com)**
 - ⚡ Fun fact: **Cricket 💚**
 
