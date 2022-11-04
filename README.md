@@ -15,13 +15,13 @@ Bachelor's in Computer Science (To be graduated in 2023)
 </h1>
 
 - 🔭 I’m currently working on **Flutter, Dart and Firebase**
-- 🌱 I’m currently learning **Flutter Mobile App Development*
+- 🌱 I’m currently learning **Flutter Mobile App Development**
 - 👯 I’m looking to collaborate on **Projects related to my Stack**                            
 - 🤔 I’m looking for help with **Cloud Computing**
 - 📫 How to reach me: **[Muhammad Osama Noor](mailto:mosamanoor17@gmail.com)**
 - ⚡ Fun fact: **Cricket 💚**
-- <p  align="center">
-                     My Postfolio Website  
+<p  align="center">
+              My Postfolio Website 
 <p align="center">  
 <a href="https://muhammadosamanoor.ipzoneerp.com/">
   <img height="200" src="https://muhammadosamanoor.ipzoneerp.com/wp-content/uploads/2022/10/moxi-768x768.jpg"/>
