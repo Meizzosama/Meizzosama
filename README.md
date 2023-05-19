@@ -24,7 +24,7 @@ Bachelor's in Computer Science (To be graduated in 2023)
               My Postfolio Website 
 <p align="center">  
 <a href="https://muhammadosamanoor.ipzoneerp.com/">
-  <img height="200" src="https://muhammadosamanoor.ipzoneerp.com/wp-content/uploads/2022/10/moxi-768x768.jpg"/>
+  <img height="200" src="https://meizzosama.netlify.app/"/>
   </a>
 <div id="badges">
   
