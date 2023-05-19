@@ -20,9 +20,7 @@ Bachelor's in Computer Science (To be graduated in 2023)
 - 🤔 I’m looking for help with **Cloud Computing**
 - 📫 How to reach me: **[Muhammad Osama Noor](mailto:mosamanoor17@gmail.com)**
 - ⚡ Fun fact: **Cricket 💚**
-<p  align="center">
-              My Postfolio Website 
-<p align="center">  
+
 
   </a>
 <div id="badges">
