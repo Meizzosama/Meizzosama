@@ -23,9 +23,7 @@ Bachelor's in Computer Science (To be graduated in 2023)
 <p  align="center">
               My Postfolio Website 
 <p align="center">  
-<a href=["https://muhammadosamanoor.ipzoneerp.com/"](https://meizzosama.netlify.app/")>
-  <img height="200" src=""![scaled_1000076073](https://github.com/Meizzosama/Meizzosama/assets/100303780/431f4f61-d0b0-41f2-b6bb-a1792c030f37)
-/>
+
   </a>
 <div id="badges">
   
