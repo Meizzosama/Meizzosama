@@ -11,7 +11,7 @@ Working on different projects can make me feel comfortable while solving differe
 <h1 align="center">
 A passionate Flutter developer from Pakistan <br />
   <br />
-Bachelor's in Computer Science (To be graduated in 2023)
+Bachelor's in Computer Science
 </h1>
 
 - 🔭 I’m currently working on **Flutter, Dart and Firebase**
