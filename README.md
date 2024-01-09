@@ -18,7 +18,7 @@ Bachelor's in Computer Science
 - 🌱 I’m currently learning **Flutter Mobile App Development**
 - 👯 I’m looking to collaborate on **Projects related to my Stack**                            
 - 🤔 I’m looking for help with **Cloud Computing**
-- 📫 How to reach me: **[Muhammad Osama Noor](mailto:mosamanoor17@gmail.com)**
+- 📫 How to reach me: **[Muhammad Osama Noor](mosamanoor17@gmail.com)**
 - ⚡ Fun fact: **Cricket 💚**
 
 
