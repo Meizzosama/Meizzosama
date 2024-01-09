@@ -18,7 +18,7 @@ Bachelor's in Computer Science
 - 🌱 I’m currently learning **Flutter Mobile App Development**
 - 👯 I’m looking to collaborate on **Projects related to my Stack**                            
 - 🤔 I’m looking for help with **Cloud Computing**
-- 📫 How to reach me:<a href="mailto:mosamanoor17@gmail.com">mosamanoor17@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:mosamanoor17@gmail.com"></a>
 - ⚡ Fun fact: **Cricket 💚**
 
 
