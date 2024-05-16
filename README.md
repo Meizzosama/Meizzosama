@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Osama Noor</h1>
-<h3 align="center">A passionate flutter developer from Karachi, Pakistan</h3>
+<h3 align="center">A passionate Flutter Mobile App Developer from Karachi, Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meizzosama&label=Profile%20views&color=0e75b6&style=flat" alt="meizzosama" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/me_izz_osama" target="blank"><img src="https://img.shields.io/twitter/follow/me_izz_osama?logo=twitter&style=for-the-badge" alt="me_izz_osama" /></a> </p>
 
-- 🔭 I’m currently working on [HRM - Design Henge.](https://github.com/Meizzosama/Ds_hrm2)
+- 🔭 I’m currently working on Flutter Mobile App Development.
 
 - 🌱 I’m currently learning **Ai and Data Science**
 
